@@ -1,0 +1,135 @@
+Rule:  Bunch -> Organic Red Radish
+Support: 0.015665796344647518
+Confidence: 0.6666666666666666
+Lift: 42.55555555555556
+=====================================
+Rule: Organic Garlic -> Bag of Organic Bananas
+Support: 0.013054830287206266
+Confidence: 0.3125
+Lift: 3.3246527777777777
+=====================================
+Rule: Organic Hass Avocado -> Bag of Organic Bananas
+Support: 0.02349869451697128
+Confidence: 0.25
+Lift: 3.6826923076923075
+=====================================
+Rule: Banana -> Fresh Cauliflower
+Support: 0.013054830287206266
+Confidence: 0.5555555555555556
+Lift: 3.7996031746031744
+=====================================
+Rule: Honeycrisp Apple -> Banana
+Support: 0.015665796344647518
+Confidence: 0.5454545454545454
+Lift: 3.73051948051948
+=====================================
+Rule: Banana -> Limes
+Support: 0.020887728459530026
+Confidence: 0.4444444444444445
+Lift: 3.0396825396825395
+=====================================
+Rule: Banana -> Red Vine Tomato
+Support: 0.013054830287206266
+Confidence: 0.5
+Lift: 3.4196428571428568
+=====================================
+Rule: Large Lemon -> Organic Baby Spinach
+Support: 0.018276762402088774
+Confidence: 0.3181818181818182
+Lift: 3.93108504398827
+=====================================
+Rule: Organic Cucumber -> Large Lemon
+Support: 0.013054830287206266
+Confidence: 0.22727272727272724
+Lift: 6.695804195804194
+=====================================
+Rule: Organic Garlic -> Large Lemon
+Support: 0.013054830287206266
+Confidence: 0.22727272727272724
+Lift: 5.440340909090908
+=====================================
+Rule: Organic Hass Avocado -> Large Lemon
+Support: 0.013054830287206266
+Confidence: 0.22727272727272724
+Lift: 3.347902097902097
+=====================================
+Rule: Organic Baby Spinach -> Limes
+Support: 0.018276762402088774
+Confidence: 0.3888888888888889
+Lift: 4.804659498207886
+=====================================
+Rule: Organic Cilantro -> Limes
+Support: 0.013054830287206266
+Confidence: 0.2777777777777778
+Lift: 8.865740740740742
+=====================================
+Rule: Organic Strawberries -> Limes
+Support: 0.018276762402088774
+Confidence: 0.3888888888888889
+Lift: 3.6327913279132793
+=====================================
+Rule: Organic Baby Arugula -> Organic Baby Spinach
+Support: 0.015665796344647518
+Confidence: 0.5454545454545454
+Lift: 6.739002932551319
+=====================================
+Rule: Organic Baby Arugula -> Organic Garlic
+Support: 0.013054830287206266
+Confidence: 0.4545454545454545
+Lift: 10.880681818181817
+=====================================
+Rule: Organic Garlic -> Organic Baby Spinach
+Support: 0.013054830287206266
+Confidence: 0.3125
+Lift: 3.8608870967741935
+=====================================
+Rule: Organic Baby Spinach -> Organic Garnet Sweet Potato (Yam)
+Support: 0.013054830287206266
+Confidence: 0.5
+Lift: 6.17741935483871
+=====================================
+Rule: Organic Grape Tomatoes -> Organic Baby Spinach
+Support: 0.015665796344647518
+Confidence: 0.5454545454545454
+Lift: 6.739002932551319
+=====================================
+Rule: Organic Small Bunch Celery -> Organic Baby Spinach
+Support: 0.013054830287206266
+Confidence: 0.5555555555555556
+Lift: 6.863799283154122
+=====================================
+Rule: Organic Hass Avocado -> Organic Cilantro
+Support: 0.013054830287206266
+Confidence: 0.4166666666666667
+Lift: 6.137820512820513
+=====================================
+Rule: Organic Strawberries -> Organic Cilantro
+Support: 0.013054830287206266
+Confidence: 0.4166666666666667
+Lift: 3.892276422764228
+=====================================
+Rule: Organic Garlic -> Organic Italian Parsley Bunch
+Support: 0.013054830287206266
+Confidence: 0.3125
+Lift: 10.880681818181818
+=====================================
+Rule: Red Peppers -> Organic Garlic
+Support: 0.013054830287206266
+Confidence: 0.3125
+Lift: 10.880681818181818
+=====================================
+Rule: Organic Hass Avocado -> Organic Raspberries
+Support: 0.013054830287206266
+Confidence: 0.2777777777777778
+Lift: 4.0918803418803416
+=====================================
+Rule: Organic Strawberries -> Organic Zucchini
+Support: 0.013054830287206266
+Confidence: 0.3846153846153846
+Lift: 3.592870544090056
+=====================================
+Rule: Organic Strawberries -> Organic Baby Spinach
+Support: 0.013054830287206266
+Confidence: 0.7142857142857142
+Lift: 6.672473867595818
+=====================================

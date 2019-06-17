@@ -1,0 +1,172 @@
+[{
+  "weight": 0.2,
+  "department_name": "produce",
+  "inv_ratio_times100": 3409,
+  "ratio": 0.29331830394879566,
+  "department_id": 4,
+  "inv_ratio": 3.4092655880574343,
+  "manual_weight" : 3,
+  "count": 9473743
+}, {
+  "weight": 0.4,
+  "department_name": "dairy eggs",
+  "inv_ratio_times100": 5978,
+  "ratio": 0.16729392994214656,
+  "department_id": 16,
+  "manual_weight" : 3,
+  "inv_ratio": 5.9775031906167735,
+  "count": 5403344
+}, {
+  "weight": 0.4,
+  "department_name": "snacks",
+  "inv_ratio_times100": 11193,
+  "ratio": 0.08933852853751192,
+  "department_id": 19,
+  "manual_weight" : 3,
+  "inv_ratio": 11.193378896766975,
+  "count": 2885501
+}, {
+  "department_name": "beverages",
+  "inv_ratio_times100": 12033,
+  "ratio": 0.08310731152704091,
+  "department_id": 7,
+  "manual_weight" : 3,
+  "inv_ratio": 12.032635656546615,
+  "count": 2684242
+}, {
+  "department_name": "frozen",
+  "inv_ratio_times100": 14832,
+  "ratio": 0.06742218974462781,
+  "department_id": 1,
+  "manual_weight" : 3,
+  "inv_ratio": 14.831912220407819,
+  "count": 2177636
+}, {
+  "department_name": "pantry",
+  "inv_ratio_times100": 17411,
+  "ratio": 0.057434978571454666,
+  "department_id": 13,
+  "manual_weight" : 3,
+  "inv_ratio": 17.410992828279777,
+  "count": 1855064
+}, {
+  "department_name": "bakery",
+  "inv_ratio_times100": 27446,
+  "ratio": 0.03643471930249653,
+  "department_id": 3,
+  "manual_weight" : 3,
+  "inv_ratio": 27.446348404596584,
+  "count": 1176787
+}, {
+  "department_name": "canned goods",
+  "inv_ratio_times100": 30648,
+  "ratio": 0.03262813456449038,
+  "department_id": 15,
+  "manual_weight" : 2,
+  "inv_ratio": 30.64839634100053,
+  "count": 1053840
+}, {
+  "department_name": "deli",
+  "inv_ratio_times100": 31064,
+  "ratio": 0.03219198435989578,
+  "department_id": 20,
+  "manual_weight" : 2,
+  "inv_ratio": 31.063633382159033,
+  "count": 1039753
+}, {
+  "department_name": "dry goods pasta",
+  "inv_ratio_times100": 37479,
+  "ratio": 0.02668154372217712,
+  "department_id": 9,
+  "manual_weight" : 3,
+  "inv_ratio": 37.47909080571008,
+  "count": 861774
+}, {
+  "department_name": "household",
+  "inv_ratio_times100": 43731,
+  "ratio": 0.02286728061044062,
+  "department_id": 17,
+  "manual_weight" : 2,
+  "inv_ratio": 43.73060430908542,
+  "count": 738579
+}, {
+  "department_name": "breakfast",
+  "inv_ratio_times100": 45518,
+  "ratio": 0.021969096651095876,
+  "department_id": 14,
+  "manual_weight" : 2,
+  "inv_ratio": 45.518485164938156,
+  "count": 709569
+}, {
+  "department_name": "meat seafood",
+  "inv_ratio_times100": 45559,
+  "ratio": 0.021949343415450857,
+  "department_id": 12,
+  "manual_weight" : 2,
+  "inv_ratio": 45.559449368133144,
+  "count": 708931
+}, {
+  "department_name": "personal care",
+  "inv_ratio_times100": 72355,
+  "ratio": 0.013820670219235527,
+  "department_id": 11,
+  "manual_weight" : 0.5,
+  "inv_ratio": 72.35539117402612,
+  "count": 446387
+}, {
+  "department_name": "babies",
+  "inv_ratio_times100": 76212,
+  "ratio": 0.01312131898608561,
+  "department_id": 18,
+  "manual_weight" : 0.5,
+  "inv_ratio": 76.21185042909492,
+  "count": 423799
+}, {
+  "department_name": "international",
+  "inv_ratio_times100": 120367,
+  "ratio": 0.00830793845387152,
+  "department_id": 6,
+  "manual_weight" : 0.3,
+  "inv_ratio": 120.36680405762966,
+  "count": 268334
+}, {
+  "department_name": "alcohol",
+  "inv_ratio_times100": 210160,
+  "ratio": 0.0047582696239881804,
+  "department_id": 5,
+  "manual_weight" : 0.2,
+  "inv_ratio": 210.16043205257506,
+  "count": 153685
+}, {
+  "department_name": "pets",
+  "inv_ratio_times100": 330958,
+  "ratio": 0.0030215329464465014,
+  "department_id": 8,
+  "manual_weight" : 0.05,
+  "inv_ratio": 330.9578342265168,
+  "count": 97591
+}, {
+  "department_name": "missing",
+  "inv_ratio_times100": 467180,
+  "ratio": 0.002140501483257461,
+  "department_id": 21,
+  "manual_weight" : 0.01,
+  "inv_ratio": 467.1802415563752,
+  "count": 69135
+}, {
+  "department_name": "other",
+  "inv_ratio_times100": 891264,
+  "ratio": 0.0011220023613476115,
+  "department_id": 2,
+  "manual_weight" : 0.2,
+  "inv_ratio": 891.263721405116,
+  "count": 36239
+}, {
+  "department_name": "bulk",
+  "inv_ratio_times100": 934212,
+  "ratio": 0.0010704210281429116,
+  "department_id": 10,
+  "manual_weight" : 0.3,
+  "inv_ratio": 934.2118416105053,
+  "count": 34573
+}]

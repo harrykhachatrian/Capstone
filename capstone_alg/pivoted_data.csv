@@ -1,0 +1,818 @@
+0,Cheesecake
+0, Tea
+0, Diapers
+0, Baby Powder
+0, Grapes
+0, Banana
+0, Cream Cheese
+0, Bagel
+0, Pumpkin pie
+0, Turkey stuffing
+0, Kale
+0, Spinach
+0, Pork chops
+0, Potato
+1,Pineapple
+1, Blueberries
+1, Turkey
+1, Cranberry sauce
+2,Tuna
+2, Mayonnaise
+2, Bagel
+2, Cream Cheese
+2, Almond Milk
+2, Cereal
+3,Sweet Potato
+3, Potato
+3, Cream
+3, Sugar
+3, Asparagus
+3, Salmon
+3, Ice cream
+3, Blueberries
+4,Bagel
+4, Cream Cheese
+4, Broth
+4, Carrots
+4, Soda
+4, Chips
+4, Almond Milk
+4, Cereal
+5,Frozen blueberries
+5, Banana
+5, Mango
+5, Apples
+6,Burger
+6, Tomatoes
+6, Mayonnaise
+6, Tuna
+6, Grapes
+6, Banana
+6, Peanuts
+6, Almonds
+6, Squash
+6, Pumpkin
+7,Wine
+7, Cheese
+8,Almonds
+8, Peanuts
+8, Burger
+8, Tomatoes
+8, Cereal
+8, Milk
+8, Pumpkin
+8, Cranberry sauce
+9,Pomegranates
+9, Banana
+9, Figs
+9, Almonds
+9, Pork chops
+9, Potato
+9, Mushrooms
+9, Onions
+9, Brussel Sprouts
+9, Brocolli
+10,Ground Beef
+10, Bread
+10, Peas
+10, Kidney beans
+10, Spring mix
+10, Spinach
+11,Cream Cheese
+11, Bagel
+11, Mango
+11, Apples
+11, Burger
+11, Tomatoes
+12,Crackers
+12, Salsa
+12, Apple pie
+12, Tea
+12, Parchment paper
+12, Flour
+12, Pork Sausage
+12, Sausage Buns
+12, Milk
+12, Cereal
+13,Wine
+13, Cheese
+13, Cantalope
+13, Orange
+13, Rice
+13, Chicken
+13, Spring mix
+13, Spinach
+13, Avacado
+13, Bread
+13, Mango
+13, Apples
+14,Cheesecake
+14, Tea
+14, Diapers
+14, Baby Powder
+14, Grapes
+14, Banana
+14, Cream Cheese
+14, Bagel
+14, Pumpkin pie
+14, Turkey stuffing
+14, Kale
+14, Spinach
+14, Pork chops
+14, Potato
+15,Cream Cheese
+15, Bagel
+15, Tuna
+15, Mayonnaise
+16,Bacon
+16, Eggs
+16, Gravy
+16, Cranberry sauce
+16, Dish detergent
+16, Lysol wipes
+16, Cheese
+16, Wine
+16, Egg nog
+16, Turkey
+17,Eggs
+17, Butter
+17, Cranberries
+17, Apples
+17, Kale
+17, Spinach
+17, Turkey stufing
+17, Cranberry sauce
+17, Almond Milk
+17, Cereal
+18,Cashews
+18, Almonds
+18, Ham
+18, Potato
+19,Pickles
+19, Burger
+19, Pears
+19, Apples
+19, Turkey
+19, Cranberry sauce
+19, Coffee
+19, Milk
+19, Broth
+19, Carrots
+19, Soda
+19, Chips
+20,Mushrooms
+20, Onions
+20, Pomegranates
+20, Banana
+20, Peppers
+20, Tomatoes
+20, Peas
+20, Kidney beans
+20, Cheese
+20, Wine
+21,Cranberries
+21, Apples
+21, Thyme
+21, Rosemary
+21, Flour
+21, Butter
+21, Rainbow Trout
+21, Asparagus
+21, Crackers
+21, Salsa
+21, Potato
+21, Sweet Potato
+22,Tuna
+22, Mayonnaise
+22, Apples
+22, Banana
+22, Eggs
+22, Butter
+22, Potato
+22, Sweet Potato
+22, Chicken
+22, Bread
+23,Cranberry sauce
+23, Turkey stuffing
+23, Cauliflower
+23, Broccoli
+23, Raisans
+23, Peanuts
+24,Pomegranates
+24, Banana
+24, Tea
+24, Milk
+25,Milk
+25, Cereal
+26,Pumpkin
+26, Cranberry sauce
+26, Parchment paper
+26, Flour
+27,Orange
+27, Pineapple
+27, Onions
+27, Mushrooms
+27, Mango
+27, Apples
+27, Rainbow Trout
+27, Asparagus
+27, Cream Cheese
+27, Bagel
+28,Crackers
+28, Salsa
+28, Diapers
+28, Baby Powder
+28, Honey
+28, Tea
+29,Diapers
+29, Baby Powder
+29, Wine
+29, Cheese
+29, Raisans
+29, Peanuts
+30,Raisans
+30, Peanuts
+30, Peanut butter
+30, Bread
+31,Mushrooms
+31, Onions
+31, Parchment paper
+31, Flour
+31, Almond Milk
+31, Cereal
+31, Peas
+31, Kidney beans
+31, Ice cream
+31, Blueberries
+31, Peanuts
+31, Almonds
+32,Turkey stufing
+32, Cranberry sauce
+33,Gravy
+33, Cranberry sauce
+33, Mushrooms
+33, Onions
+34,Squash
+34, Pumpkin
+34, Peas
+34, Kidney beans
+34, Almonds
+34, Peanuts
+34, Ham
+34, Potato
+34, Chips
+34, Salsa
+34, Peppers
+34, Tomatoes
+35,Pork chops
+35, Potato
+35, Tea
+35, Milk
+35, Figs
+35, Almonds
+35, Kale
+35, Spinach
+35, Laundry detergent
+35, Bleach
+35, Asparagus
+35, Salmon
+36,Ground Beef
+36, Bread
+36, Grapes
+36, Banana
+36, Butter
+36, Eggs
+36, Rasberries
+36, Blueberries
+37,Ketchup
+37, Mustard
+37, Spinach
+37, Spring mix
+37, Roast Turkey
+37, Potato
+37, Pickles
+37, Burger
+38,Rice
+38, Chicken
+38, Popcorn
+38, Butter
+38, Cranberry sauce
+38, Turkey stuffing
+38, Bleach
+38, Laundry detergent
+38, Cream
+38, Sugar
+38, Mustard
+38, Ketchup
+38, Diapers
+38, Baby Powder
+39,Almond Milk
+39, Cereal
+39, Kale
+39, Spinach
+39, Apple pie
+39, Tea
+39, Cranberries
+39, Apples
+40,Parchment paper
+40, Flour
+40, Milk
+40, Cereal
+40, Bacon
+40, Eggs
+40, Rasberries
+40, Blueberries
+40, Bleach
+40, Laundry detergent
+40, Sweet Potato
+40, Potato
+40, Maple syrup
+40, Butter
+41,Gravy
+41, Cranberry sauce
+41, Fabric softener
+41, Laundry detergent
+41, Flour
+41, Butter
+41, Rainbow Trout
+41, Asparagus
+41, Oatmeal
+41, Frozen blueberries
+41, Avacado
+41, Bread
+42,Chips
+42, Salsa
+42, Duck
+42, Asparagus
+42, Chicken
+42, Bread
+42, Diapers
+42, Baby Powder
+42, Laundry detergent
+42, Bleach
+43,Ice cream
+43, Blueberries
+43, Laundry detergent
+43, Bleach
+43, Toilet paper
+43, Toilet paper
+43, Thyme
+43, Rosemary
+43, Cod
+43, Bread
+44,Pork chops
+44, Potato
+45,Egg nog
+45, Turkey
+45, Tuna
+45, Mayonnaise
+45, Lysol wipes
+45, Toilet paper
+45, Sugar
+45, Cream
+45, Tea
+45, Milk
+45, Ketchup
+45, Mustard
+45, Gravy
+45, Cranberry sauce
+46,Apple pie
+46, Tea
+46, Onions
+46, Mushrooms
+46, Pasta
+46, Tomatoes
+46, Maple syrup
+46, Butter
+46, Broth
+46, Carrots
+47,Cauliflower
+47, Broccoli
+47, Pork ribs
+47, Potato
+47, Toilet paper
+47, Toilet paper
+47, Eggs
+47, Butter
+47, Cream
+47, Sugar
+48,Cranberry sauce
+48, Turkey stuffing
+48, Maple syrup
+48, Butter
+48, Mayonnaise
+48, Tuna
+48, Coffee
+48, Milk
+48, Pork ribs
+48, Potato
+48, Fabric softener
+48, Laundry detergent
+49,Cream
+49, Sugar
+49, Spinach
+49, Spring mix
+49, Bread
+49, Butter
+49, Pineapple
+49, Blueberries
+49, Pumpkin
+49, Cranberry sauce
+49, Bacon
+49, Eggs
+49, Peppers
+49, Tomatoes
+50,Gravy
+50, Cranberry sauce
+50, Peanut butter
+50, Bread
+50, Cranberries
+50, Apples
+50, Cantalope
+50, Orange
+50, Sweet Potato
+50, Potato
+50, Flour
+50, Butter
+50, Cashews
+50, Almonds
+51,Parchment paper
+51, Flour
+51, Cod
+51, Bread
+51, Cream
+51, Sugar
+52,Egg nog
+52, Turkey
+52, Apple pie
+52, Tea
+53,Toilet paper
+53, Toilet paper
+53, Mushrooms
+53, Onions
+54,Chicken
+54, Bread
+54, Pork Sausage
+54, Sausage Buns
+54, Dish detergent
+54, Lysol wipes
+54, Pumpkin
+54, Cranberry sauce
+54, Ham
+54, Potato
+55,Pumpkin
+55, Cranberry sauce
+55, Cranberries
+55, Apples
+55, Milk
+55, Cereal
+56,Yogurt
+56, Frozen blueberries
+56, Honey
+56, Tea
+56, Pineapple
+56, Blueberries
+56, Raisans
+56, Peanuts
+56, Fennel
+56, Spinach
+56, Duck
+56, Asparagus
+57,Diapers
+57, Baby Powder
+57, Cod
+57, Bread
+57, Frozen blueberries
+57, Banana
+57, Cranberries
+57, Apples
+57, Thyme
+57, Rosemary
+58,Chips
+58, Salsa
+58, Dish detergent
+58, Lysol wipes
+58, Basil
+58, Oregano
+59,Flour
+59, Butter
+59, Banana
+59, Apples
+59, Rib Roast
+59, Potato
+59, Salsa
+59, Chipsj
+59, Rice
+59, Chicken
+59, Mayonnaise
+59, Tuna
+59, Spinach
+59, Spring mix
+60,Soda
+60, Chips
+60, Mango
+60, Apples
+61,Bacon
+61, Eggs
+62,Pumpkin pie
+62, Turkey stuffing
+62, Grapes
+62, Banana
+63,Frozen blueberries
+63, Banana
+63, Pork Sausage
+63, Sausage Buns
+63, Diapers
+63, Baby Powder
+63, Ham
+63, Potato
+63, Bread
+63, Butter
+63, Blueberries
+63, Rasberries
+64,Broccoli
+64, Cauliflower
+64, Scallops
+64, Pasta
+65,Oregano
+65, Basil
+65, Chips
+65, Salsa
+65, Crab
+65, Mayonnaise
+66,Cranberry sauce
+66, Turkey stuffing
+66, Egg nog
+66, Turkey
+66, Crackers
+66, Salsa
+66, Cream
+66, Sugar
+66, Grapes
+66, Banana
+66, Salmon
+66, Asparagus
+67,Fabric softener
+67, Laundry detergent
+67, Cauliflower
+67, Broccoli
+67, Soda
+67, Chips
+67, Oatmeal
+67, Frozen blueberries
+67, Almonds
+67, Peanuts
+67, Cod
+67, Bread
+67, Rasberries
+67, Blueberries
+68,Oregano
+68, Basil
+69,Turkey stufing
+69, Cranberry sauce
+69, Mustard
+69, Ketchup
+69, Laundry detergent
+69, Bleach
+70,Cashews
+70, Almonds
+70, Oatmeal
+70, Frozen blueberries
+71,Cheese
+71, Wine
+72,Scallops
+72, Pasta
+72, Rosemary
+72, Thyme
+73,Turkey stufing
+73, Cranberry sauce
+73, Sugar
+73, Cream
+73, Crackers
+73, Salsa
+73, Tea
+73, Milk
+73, Tuna
+73, Mayonnaise
+73, Orange juice
+73, Eggs
+74,Pasta
+74, Tomatoes
+74, Popcorn
+74, Butter
+74, Figs
+74, Almonds
+74, Dish detergent
+74, Lysol wipes
+75,Rainbow Trout
+75, Asparagus
+75, Peanuts
+75, Almonds
+75, Pork chops
+75, Potato
+75, Maple syrup
+75, Butter
+75, Pears
+75, Apples
+75, Onions
+75, Mushrooms
+76,Mushrooms
+76, Onions
+76, Mustard
+76, Ketchup
+76, Diapers
+76, Baby Powder
+76, Cantalope
+76, Orange
+76, Mayonnaise
+76, Tuna
+76, Cauliflower
+76, Broccoli
+76, Pickles
+76, Burger
+77,Shrimp
+77, Pasta
+77, Sugar
+77, Cream
+77, Cashews
+77, Almonds
+77, Ketchup
+77, Mustard
+77, Pork Sausage
+77, Sausage Buns
+77, Broth
+77, Carrots
+78,Popcorn
+78, Butter
+78, Broccoli
+78, Cauliflower
+79,Brussel Sprouts
+79, Brocolli
+79, Ice cream
+79, Blueberries
+79, Diapers
+79, Baby Powder
+80,Oatmeal
+80, Frozen blueberries
+81,Cashews
+81, Almonds
+81, Apples
+81, Banana
+81, Basil
+81, Oregano
+81, Soda
+81, Chips
+81, Lysol wipes
+81, Toilet paper
+81, Ham
+81, Potato
+82,Roast Turkey
+82, Potato
+82, Kidney beans
+82, Onions
+82, Bleach
+82, Laundry detergent
+82, Tea
+82, Milk
+82, Duck
+82, Asparagus
+82, Frozen blueberries
+82, Banana
+82, Diapers
+82, Baby Powder
+83,Cereal
+83, Milk
+83, Turkey
+83, Cranberry sauce
+83, Salsa
+83, Chipsj
+83, Cod
+83, Bread
+84,Salsa
+84, Chipsj
+84, Fennel
+84, Spinach
+84, Chicken
+84, Bread
+84, Tea
+84, Milk
+84, Orange
+84, Pineapple
+84, Squash
+84, Pumpkin
+84, Eggs
+84, Butter
+85,Pork ribs
+85, Potato
+85, Chocolate
+85, Chocolate
+85, Peanut butter
+85, Bread
+86,Peppers
+86, Tomatoes
+86, Shrimp
+86, Pasta
+87,Cream Cheese
+87, Bagel
+87, Dish detergent
+87, Lysol wipes
+87, Maple syrup
+87, Butter
+87, Salmon
+87, Asparagus
+87, Lamb
+87, Potato
+88,Bleach
+88, Laundry detergent
+88, Blueberries
+88, Rasberries
+88, Fennel
+88, Spinach
+88, Crackers
+88, Salsa
+89,Tea
+89, Milk
+89, Onions
+89, Mushrooms
+89, Cantalope
+89, Orange
+89, Apples
+89, Banana
+89, Peanut butter
+89, Bread
+89, Yogurt
+89, Frozen blueberries
+90,Ice cream
+90, Blueberries
+90, Mustard
+90, Ketchup
+91,Roast Turkey
+91, Potato
+91, Cashews
+91, Almonds
+92,Pumpkin
+92, Cranberry sauce
+92, Honey
+92, Tea
+93,Crab
+93, Mayonnaise
+93, Ice cream
+93, Blueberries
+93, Maple syrup
+93, Butter
+93, Duck
+93, Asparagus
+94,Yogurt
+94, Frozen blueberries
+94, Cranberries
+94, Apples
+94, Peanuts
+94, Almonds
+94, Parchment paper
+94, Flour
+94, Cod
+94, Bread
+94, Pomegranates
+94, Banana
+95,Pickles
+95, Burger
+95, Parchment paper
+95, Flour
+95, Croissants
+95, Butter
+95, Mustard
+95, Ketchup
+95, Rosemary
+95, Thyme
+95, Cheesecake
+95, Tea
+95, Turkey
+95, Cranberry sauce
+96,Cereal
+96, Milk
+96, Mustard
+96, Ketchup
+97,Turkey
+97, Cranberry sauce
+97, Orange
+97, Pineapple
+97, Pickles
+97, Burger
+97, Cheesecake
+97, Tea
+97, Figs
+97, Almonds
+98,Eggs
+98, Butter
+98, Salmon
+98, Asparagus
+98, Avacado
+98, Bread
+98, Rosemary
+98, Thyme
+98, Soda
+98, Chips
+98, Peanuts
+98, Almonds
+99,Onions
+99, Mushrooms

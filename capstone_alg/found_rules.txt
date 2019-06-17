@@ -1,0 +1,110 @@
+Rule:  Almonds ->  Peanuts
+Support: 0.07
+Confidence: 0.43750000000000006
+Lift: 3.645833333333334
+=====================================
+Rule:  Apples ->  Cranberries
+Support: 0.06
+Confidence: 0.3333333333333333
+Lift: 5.555555555555555
+=====================================
+Rule:  Apples ->  Mango
+Support: 0.05
+Confidence: 0.2777777777777778
+Lift: 5.555555555555555
+=====================================
+Rule:  Asparagus ->  Salmon
+Support: 0.05
+Confidence: 0.38461538461538464
+Lift: 7.6923076923076925
+=====================================
+Rule:  Baby Powder ->  Diapers
+Support: 0.07
+Confidence: 0.7777777777777779
+Lift: 11.111111111111112
+=====================================
+Rule:  Grapes ->  Banana
+Support: 0.06
+Confidence: 0.3333333333333333
+Lift: 5.555555555555555
+=====================================
+Rule:  Bleach ->  Laundry detergent
+Support: 0.07
+Confidence: 1.0
+Lift: 9.090909090909092
+=====================================
+Rule:  Cod ->  Bread
+Support: 0.06
+Confidence: 0.2857142857142857
+Lift: 4.761904761904762
+=====================================
+Rule:  Butter ->  Maple syrup
+Support: 0.05
+Confidence: 0.25
+Lift: 5.0
+=====================================
+Rule:  Chips ->  Soda
+Support: 0.05
+Confidence: 0.625
+Lift: 12.5
+=====================================
+Rule:  Sugar ->  Cream
+Support: 0.08
+Confidence: 1.0
+Lift: 11.11111111111111
+=====================================
+Rule:  Lysol wipes ->  Dish detergent
+Support: 0.05
+Confidence: 1.0
+Lift: 14.285714285714285
+=====================================
+Rule:  Parchment paper ->  Flour
+Support: 0.05
+Confidence: 0.5
+Lift: 10.0
+=====================================
+Rule:  Potato ->  Ham
+Support: 0.05
+Confidence: 1.0
+Lift: 4.545454545454546
+=====================================
+Rule:  Kale ->  Spinach
+Support: 0.05
+Confidence: 1.0
+Lift: 8.333333333333334
+=====================================
+Rule:  Ketchup ->  Mustard
+Support: 0.08
+Confidence: 1.0
+Lift: 11.11111111111111
+=====================================
+Rule:  Mayonnaise ->  Tuna
+Support: 0.07
+Confidence: 0.6363636363636365
+Lift: 9.090909090909092
+=====================================
+Rule:  Mushrooms ->  Onions
+Support: 0.07
+Confidence: 0.8750000000000001
+Lift: 7.954545454545456
+=====================================
+Rule:  Rosemary ->  Thyme
+Support: 0.06
+Confidence: 1.0
+Lift: 16.666666666666668
+=====================================
+Rule:  Apples ->  Potato
+Support: 0.05
+Confidence: 0.8333333333333334
+Lift: 3.787878787878788
+=====================================
+Rule: nan ->  Lysol wipes
+Support: 0.05
+Confidence: 1.0
+Lift: 14.285714285714285
+=====================================
+Rule:  Mushrooms -> nan
+Support: 0.05
+Confidence: 0.8333333333333334
+Lift: 7.575757575757576
+=====================================

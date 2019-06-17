@@ -1,0 +1,935 @@
+Rule Found:  Baby Bok Choy -->  Sweet Baby Kale
+Support: 0.010443864229765013 
+Confidence: 1.0 
+Lift: 95.75 
+................................
+Rule Found: Super Spinach! Baby Spinach -->  Baby Bok Choy
+Support: 0.010443864229765013 
+Confidence: 1.0 
+Lift: 95.75 
+................................
+Rule Found:  Bag --> Clementines
+Support: 0.010443864229765013 
+Confidence: 0.5714285714285714 
+Lift: 21.885714285714286 
+................................
+Rule Found:  Bunch --> Banana
+Support: 0.010443864229765013 
+Confidence: 0.4444444444444445 
+Lift: 3.0396825396825395 
+................................
+Rule Found:  Bunch --> Flat Parsley
+Support: 0.007832898172323759 
+Confidence: 0.3333333333333333 
+Lift: 42.55555555555556 
+................................
+Rule Found:  Bunch --> Organic Red Radish
+Support: 0.015665796344647518 
+Confidence: 0.6666666666666666 
+Lift: 42.55555555555556 
+................................
+Rule Found:  Grade A --> Cage Free Brown Eggs-Large
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 127.66666666666669 
+................................
+Rule Found:  Organic --> Bag of Organic Bananas
+Support: 0.010443864229765013 
+Confidence: 0.8 
+Lift: 8.511111111111111 
+................................
+Rule Found: Yogurt -->  Strawberry
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 95.75 
+................................
+Rule Found: Super Spinach! Baby Spinach -->  Sweet Baby Kale
+Support: 0.010443864229765013 
+Confidence: 1.0 
+Lift: 95.75 
+................................
+Rule Found: 100% Whole Wheat Bread --> Large Lemon
+Support: 0.007832898172323759 
+Confidence: 0.23076923076923073 
+Lift: 4.017482517482517 
+................................
+Rule Found: Bag of Organic Bananas --> Apple Honeycrisp Organic
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 3.989583333333333 
+................................
+Rule Found: Organic Small Bunch Celery --> Apple Honeycrisp Organic
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 15.958333333333332 
+................................
+Rule Found: Organic Strawberries --> Apple Honeycrisp Organic
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 3.5030487804878048 
+................................
+Rule Found: Bag of Organic Bananas --> Baby Spinach
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 6.383333333333333 
+................................
+Rule Found: Good Seed Organic Thin Sliced Bread --> Bag of Organic Bananas
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 10.63888888888889 
+................................
+Rule Found: Organic Broccoli --> Bag of Organic Bananas
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 6.383333333333333 
+................................
+Rule Found: Organic Coconut Milk --> Bag of Organic Bananas
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 6.383333333333333 
+................................
+Rule Found: Organic Garbanzo Beans --> Bag of Organic Bananas
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 3.989583333333333 
+................................
+Rule Found: Organic Garlic --> Bag of Organic Bananas
+Support: 0.013054830287206266 
+Confidence: 0.3125 
+Lift: 3.3246527777777777 
+................................
+Rule Found: Organic Hass Avocado --> Bag of Organic Bananas
+Support: 0.02349869451697128 
+Confidence: 0.25 
+Lift: 3.6826923076923075 
+................................
+Rule Found: Organic Ketchup --> Bag of Organic Bananas
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.979166666666666 
+................................
+Rule Found: Organic Milk --> Bag of Organic Bananas
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.979166666666666 
+................................
+Rule Found: Organic Raw Kombucha Gingerade --> Bag of Organic Bananas
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 6.383333333333333 
+................................
+Rule Found: Organic Unsalted Butter --> Bag of Organic Bananas
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 10.63888888888889 
+................................
+Rule Found: Organic Whole String Cheese --> Bag of Organic Bananas
+Support: 0.010443864229765013 
+Confidence: 0.6666666666666667 
+Lift: 7.0925925925925934 
+................................
+Rule Found: Pure Coconut Water --> Bag of Organic Bananas
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 6.383333333333333 
+................................
+Rule Found: Banana --> Basil Pesto
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 5.129464285714285 
+................................
+Rule Found: Banana --> Fresh Cauliflower
+Support: 0.013054830287206266 
+Confidence: 0.5555555555555556 
+Lift: 3.7996031746031744 
+................................
+Rule Found: Banana --> Honey Nut Cheerios
+Support: 0.010443864229765013 
+Confidence: 0.6666666666666667 
+Lift: 4.559523809523809 
+................................
+Rule Found: Banana --> Honeycrisp Apple
+Support: 0.015665796344647518 
+Confidence: 0.5454545454545454 
+Lift: 3.73051948051948 
+................................
+Rule Found: Banana --> Limes
+Support: 0.020887728459530026 
+Confidence: 0.4444444444444445 
+Lift: 3.0396825396825395 
+................................
+Rule Found: Banana --> Organic 2% Reduced Fat Milk
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 5.129464285714285 
+................................
+Rule Found: Banana --> Organic Red Radish
+Support: 0.007832898172323759 
+Confidence: 0.5 
+Lift: 3.4196428571428568 
+................................
+Rule Found: Banana --> Red Vine Tomato
+Support: 0.013054830287206266 
+Confidence: 0.5 
+Lift: 3.4196428571428568 
+................................
+Rule Found: Banana --> Shredded Mild Cheddar Cheese
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 6.8392857142857135 
+................................
+Rule Found: Banana --> Spinach
+Support: 0.007832898172323759 
+Confidence: 0.5 
+Lift: 3.4196428571428568 
+................................
+Rule Found: Banana --> Uncured Genoa Salami
+Support: 0.007832898172323759 
+Confidence: 0.5 
+Lift: 3.4196428571428568 
+................................
+Rule Found: Banana --> Unsalted Butter
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 4.103571428571428 
+................................
+Rule Found: Banana --> Yellow Onions
+Support: 0.010443864229765013 
+Confidence: 0.5714285714285714 
+Lift: 3.908163265306122 
+................................
+Rule Found: Blackberries --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 5.604878048780488 
+................................
+Rule Found: Broccoli Crown --> Large Lemon
+Support: 0.010443864229765013 
+Confidence: 0.5714285714285714 
+Lift: 9.948051948051948 
+................................
+Rule Found: Broccoli Crown --> Organic Cucumber
+Support: 0.007832898172323759 
+Confidence: 0.4285714285714285 
+Lift: 12.626373626373622 
+................................
+Rule Found: Broccoli Crown --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 0.4285714285714285 
+Lift: 4.003484320557491 
+................................
+Rule Found: Organic Baby Arugula --> Bunched Cilantro
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 13.05681818181818 
+................................
+Rule Found: Carrots --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 0.3333333333333333 
+Lift: 7.979166666666666 
+................................
+Rule Found: Carrots --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 0.3333333333333333 
+Lift: 3.113821138211382 
+................................
+Rule Found: Red Peppers --> Carrots
+Support: 0.007832898172323759 
+Confidence: 0.3333333333333333 
+Lift: 11.606060606060606 
+................................
+Rule Found: Organic Cucumber --> Celery Hearts
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 22.09615384615384 
+................................
+Rule Found: Celery Hearts --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Extra Virgin Olive Oil --> Hass Avocados
+Support: 0.007832898172323759 
+Confidence: 0.3 
+Lift: 19.150000000000002 
+................................
+Rule Found: Extra Virgin Olive Oil --> Large Lemon
+Support: 0.007832898172323759 
+Confidence: 0.3 
+Lift: 5.222727272727273 
+................................
+Rule Found: Extra Virgin Olive Oil --> Organic Strawberries
+Support: 0.010443864229765013 
+Confidence: 0.4 
+Lift: 3.7365853658536587 
+................................
+Rule Found: Limes --> Feta Cheese Crumbles
+Support: 0.007832898172323759 
+Confidence: 0.4285714285714285 
+Lift: 9.119047619047617 
+................................
+Rule Found: Red Peppers --> Feta Cheese Crumbles
+Support: 0.007832898172323759 
+Confidence: 0.4285714285714285 
+Lift: 14.922077922077918 
+................................
+Rule Found: Organic Baby Spinach --> Fresh Cauliflower
+Support: 0.007832898172323759 
+Confidence: 0.3333333333333333 
+Lift: 4.118279569892473 
+................................
+Rule Found: Organic Hass Avocado --> Fresh Cauliflower
+Support: 0.010443864229765013 
+Confidence: 0.4444444444444445 
+Lift: 6.547008547008547 
+................................
+Rule Found: Organic Baby Spinach --> Fresh Ginger Root
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 7.412903225806451 
+................................
+Rule Found: Hass Avocados --> Organic Strawberries
+Support: 0.010443864229765013 
+Confidence: 0.6666666666666667 
+Lift: 6.227642276422765 
+................................
+Rule Found: Honeycrisp Apple --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.2727272727272727 
+Lift: 5.803030303030303 
+................................
+Rule Found: Organic Baby Spinach --> Large Grapefruit
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 12.35483870967742 
+................................
+Rule Found: Limes --> Large Lemon
+Support: 0.010443864229765013 
+Confidence: 0.22222222222222224 
+Lift: 3.868686868686869 
+................................
+Rule Found: Organic Baby Arugula --> Large Lemon
+Support: 0.010443864229765013 
+Confidence: 0.36363636363636365 
+Lift: 6.330578512396694 
+................................
+Rule Found: Organic Baby Spinach --> Large Lemon
+Support: 0.018276762402088774 
+Confidence: 0.3181818181818182 
+Lift: 3.93108504398827 
+................................
+Rule Found: Organic Cucumber --> Large Lemon
+Support: 0.013054830287206266 
+Confidence: 0.22727272727272724 
+Lift: 6.695804195804194 
+................................
+Rule Found: Organic Garlic --> Large Lemon
+Support: 0.013054830287206266 
+Confidence: 0.22727272727272724 
+Lift: 5.440340909090908 
+................................
+Rule Found: Organic Hass Avocado --> Large Lemon
+Support: 0.013054830287206266 
+Confidence: 0.22727272727272724 
+Lift: 3.347902097902097 
+................................
+Rule Found: Organic Yellow Onion --> Large Lemon
+Support: 0.007832898172323759 
+Confidence: 0.25 
+Lift: 4.3522727272727275 
+................................
+Rule Found: Organic Baby Spinach --> Limes
+Support: 0.018276762402088774 
+Confidence: 0.3888888888888889 
+Lift: 4.804659498207886 
+................................
+Rule Found: Limes --> Organic Broccoli
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 12.766666666666666 
+................................
+Rule Found: Organic Cilantro --> Limes
+Support: 0.013054830287206266 
+Confidence: 0.2777777777777778 
+Lift: 8.865740740740742 
+................................
+Rule Found: Limes --> Organic Garlic
+Support: 0.010443864229765013 
+Confidence: 0.22222222222222224 
+Lift: 5.319444444444445 
+................................
+Rule Found: Organic Garnet Sweet Potato (Yam) --> Limes
+Support: 0.010443864229765013 
+Confidence: 0.22222222222222224 
+Lift: 8.511111111111113 
+................................
+Rule Found: Organic Hass Avocado --> Limes
+Support: 0.010443864229765013 
+Confidence: 0.22222222222222224 
+Lift: 3.2735042735042734 
+................................
+Rule Found: Limes --> Organic Lemon
+Support: 0.010443864229765013 
+Confidence: 0.22222222222222224 
+Lift: 8.511111111111113 
+................................
+Rule Found: Limes --> Organic Strawberries
+Support: 0.018276762402088774 
+Confidence: 0.3888888888888889 
+Lift: 3.6327913279132793 
+................................
+Rule Found: Limes --> Yellow Onions
+Support: 0.007832898172323759 
+Confidence: 0.4285714285714285 
+Lift: 9.119047619047617 
+................................
+Rule Found: Organic Baby Spinach --> Organic Avocado
+Support: 0.010443864229765013 
+Confidence: 0.2857142857142857 
+Lift: 3.529953917050691 
+................................
+Rule Found: Organic Baby Spinach --> Organic Baby Arugula
+Support: 0.015665796344647518 
+Confidence: 0.5454545454545454 
+Lift: 6.739002932551319 
+................................
+Rule Found: Organic Baby Arugula --> Organic Garlic
+Support: 0.013054830287206266 
+Confidence: 0.4545454545454545 
+Lift: 10.880681818181817 
+................................
+Rule Found: Organic Hass Avocado --> Organic Baby Broccoli
+Support: 0.007832898172323759 
+Confidence: 0.4285714285714285 
+Lift: 6.313186813186811 
+................................
+Rule Found: Organic Baby Spinach --> Organic Cilantro
+Support: 0.010443864229765013 
+Confidence: 0.33333333333333337 
+Lift: 4.118279569892474 
+................................
+Rule Found: Organic Baby Spinach --> Organic Garlic
+Support: 0.013054830287206266 
+Confidence: 0.3125 
+Lift: 3.8608870967741935 
+................................
+Rule Found: Organic Baby Spinach --> Organic Garnet Sweet Potato (Yam)
+Support: 0.013054830287206266 
+Confidence: 0.5 
+Lift: 6.17741935483871 
+................................
+Rule Found: Organic Baby Spinach --> Organic Granny Smith Apple
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 4.633064516129031 
+................................
+Rule Found: Organic Baby Spinach --> Organic Grape Tomatoes
+Support: 0.015665796344647518 
+Confidence: 0.5454545454545454 
+Lift: 6.739002932551319 
+................................
+Rule Found: Organic Baby Spinach --> Organic Peeled Whole Baby Carrots
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 4.633064516129031 
+................................
+Rule Found: Organic Baby Spinach --> Organic Red Bell Pepper
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 4.633064516129031 
+................................
+Rule Found: Organic Baby Spinach --> Organic Small Bunch Celery
+Support: 0.013054830287206266 
+Confidence: 0.5555555555555556 
+Lift: 6.863799283154122 
+................................
+Rule Found: Organic Baby Spinach --> Pineapple Chunks
+Support: 0.007832898172323759 
+Confidence: 0.5 
+Lift: 6.17741935483871 
+................................
+Rule Found: Organic Baby Spinach --> Red Peppers
+Support: 0.007832898172323759 
+Confidence: 0.2727272727272727 
+Lift: 3.3695014662756595 
+................................
+Rule Found: Organic Baby Spinach --> Red Vine Tomato
+Support: 0.007832898172323759 
+Confidence: 0.3 
+Lift: 3.7064516129032254 
+................................
+Rule Found: Organic Baby Spinach --> Russet Potato
+Support: 0.007832898172323759 
+Confidence: 0.5 
+Lift: 6.17741935483871 
+................................
+Rule Found: Organic Blackberries --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Organic Blueberries --> Organic Cucumber
+Support: 0.007832898172323759 
+Confidence: 0.25 
+Lift: 7.365384615384615 
+................................
+Rule Found: Organic Blueberries --> Organic Raspberries
+Support: 0.007832898172323759 
+Confidence: 0.25 
+Lift: 5.319444444444445 
+................................
+Rule Found: Organic Cilantro --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 0.25 
+Lift: 5.984375 
+................................
+Rule Found: Organic Cilantro --> Organic Hass Avocado
+Support: 0.013054830287206266 
+Confidence: 0.4166666666666667 
+Lift: 6.137820512820513 
+................................
+Rule Found: Organic Cilantro --> Organic Raspberries
+Support: 0.007832898172323759 
+Confidence: 0.25 
+Lift: 5.319444444444445 
+................................
+Rule Found: Organic Cilantro --> Organic Strawberries
+Support: 0.013054830287206266 
+Confidence: 0.4166666666666667 
+Lift: 3.892276422764228 
+................................
+Rule Found: Organic Cucumber --> Organic Dandelion Greens
+Support: 0.007832898172323759 
+Confidence: 0.23076923076923073 
+Lift: 22.096153846153843 
+................................
+Rule Found: Organic Granny Smith Apple --> Organic Cucumber
+Support: 0.007832898172323759 
+Confidence: 0.23076923076923073 
+Lift: 11.048076923076922 
+................................
+Rule Found: Organic Grape Tomatoes --> Organic Cucumber
+Support: 0.007832898172323759 
+Confidence: 0.23076923076923073 
+Lift: 8.034965034965033 
+................................
+Rule Found: Organic Italian Parsley Bunch --> Organic Cucumber
+Support: 0.007832898172323759 
+Confidence: 0.23076923076923073 
+Lift: 8.034965034965033 
+................................
+Rule Found: Organic Dandelion Greens --> Organic Small Bunch Celery
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 31.916666666666664 
+................................
+Rule Found: Organic Fuji Apple --> Strawberries
+Support: 0.010443864229765013 
+Confidence: 0.4444444444444445 
+Lift: 7.400966183574879 
+................................
+Rule Found: Organic Strawberries --> Organic Garbanzo Beans
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 3.5030487804878048 
+................................
+Rule Found: Organic Garnet Sweet Potato (Yam) --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 0.3 
+Lift: 7.1812499999999995 
+................................
+Rule Found: Organic Hass Avocado --> Organic Garlic
+Support: 0.010443864229765013 
+Confidence: 0.25 
+Lift: 3.6826923076923075 
+................................
+Rule Found: Organic Italian Parsley Bunch --> Organic Garlic
+Support: 0.013054830287206266 
+Confidence: 0.3125 
+Lift: 10.880681818181818 
+................................
+Rule Found: Red Peppers --> Organic Garlic
+Support: 0.013054830287206266 
+Confidence: 0.3125 
+Lift: 10.880681818181818 
+................................
+Rule Found: Small Hass Avocado --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 0.2727272727272727 
+Lift: 6.52840909090909 
+................................
+Rule Found: Organic Hass Avocado --> Organic Garnet Sweet Potato (Yam)
+Support: 0.007832898172323759 
+Confidence: 0.3 
+Lift: 4.419230769230769 
+................................
+Rule Found: Organic Lacinato (Dinosaur) Kale --> Organic Ginger Root
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 23.9375 
+................................
+Rule Found: Organic Ginger Root --> Tortillas
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 47.875 
+................................
+Rule Found: Organic Granny Smith Apple --> Organic Small Bunch Celery
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 15.958333333333332 
+................................
+Rule Found: Organic Grape Tomatoes --> Organic Hass Avocado
+Support: 0.007832898172323759 
+Confidence: 0.2727272727272727 
+Lift: 4.017482517482517 
+................................
+Rule Found: Organic Grape Tomatoes --> Organic Red Bell Pepper
+Support: 0.007832898172323759 
+Confidence: 0.2727272727272727 
+Lift: 13.05681818181818 
+................................
+Rule Found: Organic Hass Avocado --> Organic Lemon
+Support: 0.010443864229765013 
+Confidence: 0.4 
+Lift: 5.892307692307692 
+................................
+Rule Found: Organic Hass Avocado --> Organic Raspberries
+Support: 0.013054830287206266 
+Confidence: 0.2777777777777778 
+Lift: 4.0918803418803416 
+................................
+Rule Found: Organic Hass Avocado --> Organic Zucchini
+Support: 0.010443864229765013 
+Confidence: 0.30769230769230765 
+Lift: 4.532544378698224 
+................................
+Rule Found: Organic Hass Avocado --> Pure Coconut Water
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 8.838461538461537 
+................................
+Rule Found: Organic Italian Parsley Bunch --> Organic Small Bunch Celery
+Support: 0.007832898172323759 
+Confidence: 0.2727272727272727 
+Lift: 11.606060606060606 
+................................
+Rule Found: Organic Italian Parsley Bunch --> Organic Strawberries
+Support: 0.010443864229765013 
+Confidence: 0.36363636363636365 
+Lift: 3.39689578713969 
+................................
+Rule Found: Organic Italian Parsley Bunch --> Organic Yellow Onion
+Support: 0.010443864229765013 
+Confidence: 0.36363636363636365 
+Lift: 11.606060606060607 
+................................
+Rule Found: Red Peppers --> Organic Italian Parsley Bunch
+Support: 0.007832898172323759 
+Confidence: 0.2727272727272727 
+Lift: 9.49586776859504 
+................................
+Rule Found: Organic Raspberries --> Organic Ketchup
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 15.958333333333332 
+................................
+Rule Found: Organic Strawberries --> Organic Lemon
+Support: 0.010443864229765013 
+Confidence: 0.4 
+Lift: 3.7365853658536587 
+................................
+Rule Found: Water --> Organic Raspberries
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 12.766666666666666 
+................................
+Rule Found: Organic Red Bell Pepper --> Organic Yellow Onion
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 11.96875 
+................................
+Rule Found: Organic Strawberries --> Organic Small Bunch Celery
+Support: 0.007832898172323759 
+Confidence: 0.3333333333333333 
+Lift: 3.113821138211382 
+................................
+Rule Found: Organic Zucchini --> Organic Strawberries
+Support: 0.013054830287206266 
+Confidence: 0.3846153846153846 
+Lift: 3.592870544090056 
+................................
+Rule Found: Unsweetened Almondmilk --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Small Hass Avocado --> Organic Tomato Cluster
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 26.11363636363636 
+................................
+Rule Found: Organic Zucchini --> Organic Whole Milk
+Support: 0.007832898172323759 
+Confidence: 0.21428571428571425 
+Lift: 6.313186813186811 
+................................
+Rule Found: Organic Zucchini --> Organic Yellow Onion
+Support: 0.007832898172323759 
+Confidence: 0.25 
+Lift: 7.365384615384615 
+................................
+Rule Found: Red Raspberries --> Strawberries
+Support: 0.010443864229765013 
+Confidence: 0.8 
+Lift: 13.321739130434784 
+................................
+Rule Found: Super Spinach! Baby Spinach -->  Baby Bok Choy
+Support: 0.010443864229765013 
+Confidence: 1.0 
+Lift: 95.75 
+................................
+Rule Found:  Bunch --> Banana
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 47.875 
+................................
+Rule Found: Organic Hass Avocado --> Large Lemon
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 8.838461538461537 
+................................
+Rule Found: Organic Italian Parsley Bunch --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 20.89090909090909 
+................................
+Rule Found: Organic Hass Avocado --> Pure Coconut Water
+Support: 0.007832898172323759 
+Confidence: 0.3333333333333333 
+Lift: 25.533333333333335 
+................................
+Rule Found: Banana --> Limes
+Support: 0.010443864229765013 
+Confidence: 0.5 
+Lift: 6.17741935483871 
+................................
+Rule Found: Banana --> Organic Cilantro
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 11.96875 
+................................
+Rule Found: Banana --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 14.362499999999999 
+................................
+Rule Found: Banana --> Limes
+Support: 0.010443864229765013 
+Confidence: 0.5 
+Lift: 4.670731707317073 
+................................
+Rule Found: Banana --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 20.51785714285714 
+................................
+Rule Found: Banana --> Organic Garnet Sweet Potato (Yam)
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 14.362499999999999 
+................................
+Rule Found: Banana --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 0.37499999999999994 
+Lift: 3.5030487804878048 
+................................
+Rule Found: Broccoli Crown --> Organic Cucumber
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 22.09615384615384 
+................................
+Rule Found: Organic Baby Spinach --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 9.266129032258062 
+................................
+Rule Found: Organic Strawberries --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Organic Baby Spinach --> Organic Baby Arugula
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 9.266129032258062 
+................................
+Rule Found: Organic Baby Arugula --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 17.953124999999996 
+................................
+Rule Found: Organic Baby Spinach --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 0.4285714285714285 
+Lift: 10.25892857142857 
+................................
+Rule Found: Organic Hass Avocado --> Organic Raspberries
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 12.766666666666666 
+................................
+Rule Found: Organic Baby Spinach --> Organic Cilantro
+Support: 0.007832898172323759 
+Confidence: 0.4285714285714285 
+Lift: 13.678571428571427 
+................................
+Rule Found: Organic Baby Spinach --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.4285714285714285 
+Lift: 10.25892857142857 
+................................
+Rule Found: Organic Baby Spinach --> Limes
+Support: 0.010443864229765013 
+Confidence: 0.5714285714285714 
+Lift: 21.885714285714286 
+................................
+Rule Found: Organic Baby Spinach --> Limes
+Support: 0.013054830287206266 
+Confidence: 0.7142857142857142 
+Lift: 6.672473867595818 
+................................
+Rule Found: Organic Cilantro --> Organic Hass Avocado
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 8.838461538461537 
+................................
+Rule Found: Organic Cilantro --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 5.604878048780488 
+................................
+Rule Found: Organic Garnet Sweet Potato (Yam) --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 28.724999999999998 
+................................
+Rule Found: Limes --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Organic Garnet Sweet Potato (Yam) --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Organic Hass Avocado --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Limes --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Organic Baby Spinach --> Organic Baby Arugula
+Support: 0.007832898172323759 
+Confidence: 0.5 
+Lift: 11.96875 
+................................
+Rule Found: Organic Baby Spinach --> Organic Cilantro
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 11.04807692307692 
+................................
+Rule Found: Organic Baby Spinach --> Organic Cilantro
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 15.958333333333332 
+................................
+Rule Found: Organic Baby Spinach --> Organic Cilantro
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Organic Baby Spinach --> Organic Garnet Sweet Potato (Yam)
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 22.98 
+................................
+Rule Found: Organic Baby Spinach --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 5.604878048780488 
+................................
+Rule Found: Organic Baby Spinach --> Organic Garnet Sweet Potato (Yam)
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 5.604878048780488 
+................................
+Rule Found: Organic Garnet Sweet Potato (Yam) --> Organic Garlic
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 9.341463414634147 
+................................
+Rule Found: Red Peppers --> Organic Italian Parsley Bunch
+Support: 0.007832898172323759 
+Confidence: 0.6 
+Lift: 20.89090909090909 
+................................
+Rule Found: Organic Hass Avocado --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Organic Italian Parsley Bunch --> Organic Strawberries
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 9.341463414634147 
+................................
+Rule Found: Banana --> Organic Garnet Sweet Potato (Yam)
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 28.724999999999998 
+................................
+Rule Found: Banana --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Organic Baby Spinach --> Organic Cilantro
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 9.341463414634147 
+................................
+Rule Found: Organic Baby Spinach --> Limes
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 38.300000000000004 
+................................
+Rule Found: Organic Baby Spinach --> Limes
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 9.341463414634147 
+................................
+Rule Found: Organic Baby Spinach --> Limes
+Support: 0.007832898172323759 
+Confidence: 0.7499999999999999 
+Lift: 7.0060975609756095 
+................................
+Rule Found: Organic Garnet Sweet Potato (Yam) --> Limes
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 9.341463414634147 
+................................
+Rule Found: Organic Baby Spinach --> Organic Garnet Sweet Potato (Yam)
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 9.341463414634147 
+................................
+Rule Found: Organic Garlic --> Organic Baby Spinach
+Support: 0.007832898172323759 
+Confidence: 1.0 
+Lift: 9.341463414634147 
+................................

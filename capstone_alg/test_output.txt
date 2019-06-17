@@ -1,0 +1,45 @@
+Rule:  Bunch -> Organic Red Radish
+Support: 0.015665796344647518
+Confidence: 0.6666666666666666
+Lift: 42.55555555555556
+=====================================
+Rule: Organic Hass Avocado -> Bag of Organic Bananas
+Support: 0.02349869451697128
+Confidence: 0.25
+Lift: 3.6826923076923075
+=====================================
+Rule: Honeycrisp Apple -> Banana
+Support: 0.015665796344647518
+Confidence: 0.5454545454545454
+Lift: 3.73051948051948
+=====================================
+Rule: Limes -> Banana
+Support: 0.020887728459530026
+Confidence: 0.4444444444444445
+Lift: 3.0396825396825395
+=====================================
+Rule: Large Lemon -> Organic Baby Spinach
+Support: 0.018276762402088774
+Confidence: 0.3181818181818182
+Lift: 3.93108504398827
+=====================================
+Rule: Organic Baby Spinach -> Limes
+Support: 0.018276762402088774
+Confidence: 0.3888888888888889
+Lift: 4.804659498207886
+=====================================
+Rule: Limes -> Organic Strawberries
+Support: 0.018276762402088774
+Confidence: 0.3888888888888889
+Lift: 3.6327913279132793
+=====================================
+Rule: Organic Baby Spinach -> Organic Baby Arugula
+Support: 0.015665796344647518
+Confidence: 0.5454545454545454
+Lift: 6.739002932551319
+=====================================
+Rule: Organic Baby Spinach -> Organic Grape Tomatoes
+Support: 0.015665796344647518
+Confidence: 0.5454545454545454
+Lift: 6.739002932551319
+=====================================
